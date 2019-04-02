@@ -20,4 +20,6 @@ end
   def using_concat(a,b)
     a.concat(b)
   end
-   def using_insert(a,b)
+   def using_insert(array,element)
+     array.insert(3)
+   end
