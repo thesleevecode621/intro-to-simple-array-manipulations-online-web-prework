@@ -12,7 +12,8 @@ end
     array.pop(2)
   end
   def using_shift(array)
-    
+    return array.shit
+  end
     
   
    
