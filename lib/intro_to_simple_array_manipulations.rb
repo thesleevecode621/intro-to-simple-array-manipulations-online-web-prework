@@ -9,6 +9,7 @@ end
    return array.pop
   end
   def pop_with_args(array)
-    array.pop
+    array.pop(2)
+  end
   
    
